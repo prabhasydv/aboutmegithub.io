@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aboutmegithub.io/static/css/main.24f6bcde.css",
+    "main.js": "/aboutmegithub.io/static/js/main.2530d686.js",
+    "static/js/787.883ba16e.chunk.js": "/aboutmegithub.io/static/js/787.883ba16e.chunk.js",
+    "static/media/Screenshot 2023-12-11 at 11.50.16 AM.png": "/aboutmegithub.io/static/media/Screenshot 2023-12-11 at 11.50.16 AM.421e8d3e2a4112ed19c9.png",
+    "static/media/WhatsApp Image 2023-11-20 at 9.22.55 AM.jpeg": "/aboutmegithub.io/static/media/WhatsApp Image 2023-11-20 at 9.22.55 AM.abf8a5ff54bb951fa4c3.jpeg",
+    "index.html": "/aboutmegithub.io/index.html",
+    "main.24f6bcde.css.map": "/aboutmegithub.io/static/css/main.24f6bcde.css.map",
+    "main.2530d686.js.map": "/aboutmegithub.io/static/js/main.2530d686.js.map",
+    "787.883ba16e.chunk.js.map": "/aboutmegithub.io/static/js/787.883ba16e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f6bcde.css",
+    "static/js/main.2530d686.js"
+  ]
+}
